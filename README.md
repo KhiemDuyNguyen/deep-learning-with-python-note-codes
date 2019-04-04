@@ -1,5 +1,4 @@
 ## deep-learning-with-python-note-codes
-- Trying to finish the book in 2 weeks in occasion of 2 weeks.
 
 - Books, notes, and codes for this book.
 
